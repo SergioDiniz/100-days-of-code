@@ -6,7 +6,7 @@
 
 #### Data de início
 
-25 de junho, 2016. [COLOQUE SUA DATA AQUI]
+11 de agosto, 2018. 
 
 ## Regras adicionais
 
@@ -14,7 +14,7 @@
 2. Se eu programar no trabalho, não irei considerar esse tempo como parte do desafio.
 3. Eu irei enviar meu código para o GitHub todo dia para que qualquer pessoa possa ver meu progresso.
 4. Eu irei atualizar o (Log)[log.md] com meu progresso diário e irei providenciar um link para que outros possam ver meu progresso.
-5. Eu irei trabalhar em projetos reais, com desafios verdadeiros. O tempo que usar vendo tutoriais, cursos online e outros recursos similares NÃO irão contar para o desafio. (Caso você esteja aprendendo a programar, leia [LEIA-ME](LEIAME.md))
+5. Eu irei trabalhar em projetos reais, com desafios verdadeiros. O tempo que usar vendo tutoriais, cursos online e outros recursos similares NÃO irão contar para o desafio. (Caso você esteja aprendendo a programar, leia [LEIA-ME](README.md))
 
 ## Ideias para fazer esse desafio ser mais eficiente
 
@@ -28,5 +28,5 @@
 
 * [Regras](regras.md)
 * [Log - clique aqui para ver meu progresso](log.md)
-* [LEIA-ME](LEIAME.md)
+* [LEIA-ME](README.md)
 * [Recursos](recursos.md)
