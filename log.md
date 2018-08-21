@@ -71,3 +71,12 @@
 **Progresso do dia:** Fiquei sem net então tive quer estudar pelo 4G por pouco tempo para economizar dados.
 
 **Aprendizados:** . A aula de hoje foi focada em descobrir e apreender como utilizar novos componentes de interface do android, sendo eles: ToggleButton & Switch, Toast, AlertDialog, ProgressBar e Seekbar. Aprendi também como colocar, alem de texto, uma imagem no Toast.
+
+
+**Link(s) do(s) trabalho(s)**
+1. [Sorteio de um número entre 1 - 100](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_1_sorteio)
+2. [Frase do Dia](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_2_frase_do_dia)
+3.  [Pedra, Papel ou Tesoura](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_3_pedra_papel_ou_tesoura)
+4. [Notícia](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_4_noticia)
+5. [Player de Música](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_5_player_musica) 
+6.  [Álcool ou Gasolina](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_6_alcool_ou_gasolina)
