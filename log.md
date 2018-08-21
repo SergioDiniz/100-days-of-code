@@ -21,3 +21,20 @@
 **Aprendizados:** Aprendendo como adicionar imaginas, ImageView, mudando fontes e alinhando componentes com ConstraintLayout .
 
 **Link do trabalho:** [Frase do Dia](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_2_frase_do_dia)
+
+### Dia 4: 14 de agosto, 2018
+
+**Progresso do dia:** Desenvolvido App do jogo Pedra, Papel ou Tesoura, utilizando um design mais avançado com imagens de background .
+
+**Aprendizados:** Aplicando os conhecimento para trabalhar com imagens e montar um layout mais avançado de uma tabuleiro para jogar o jogo  Pedra, Papel ou Tesoura, exibindo os pontos do jogado e na maquina (celular) e exibindo quem venceu o jogo com Toast .
+
+**Link do trabalho:** [Pedra, Papel ou Tesoura](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_3_pedra_papel_ou_tesoura)
+
+### Dia 5: 15 de agosto, 2018
+
+**Progresso do dia:**  Desenvolvido interface de um app de notícias.
+
+**Aprendizados:**  O projeto de hoje foi para fixar os conceitos e como utilizar o ConstraintLayout, utilizando vários buttons na tela. Nesse projeto também foi utilizado ScrollView, para que o app tivesse uma barra de rolagem quando o conteúdo fosse maior que a área da tela.
+
+**Link do trabalho:** [Notícia](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_4_noticia)
+
