@@ -66,3 +66,8 @@
 
 **Link do trabalho:** [Álcool ou Gasolina](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_6_alcool_ou_gasolina)
 
+### Dia 10: 20 de agosto, 2018
+
+**Progresso do dia:** Fiquei sem net então tive quer estudar pelo 4G por pouco tempo para economizar dados.
+
+**Aprendizados:** . A aula de hoje foi focada em descobrir e apreender como utilizar novos componentes de interface do android, sendo eles: ToggleButton & Switch, Toast, AlertDialog, ProgressBar e Seekbar. Aprendi também como colocar, alem de texto, uma imagem no Toast.
