@@ -46,3 +46,14 @@
 
 **Link do trabalho:** [Player de Música](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_5_player_musica)
 
+### Dia 7: 17 de agosto, 2018
+
+**Progresso do dia:** Ultima parte dos estudos sobre Layouts.
+
+**Aprendizados:**  As aulas de hoje foram sobre como utilizar o Chain, para te os elementos encadeados, e uma abordagem sobre os principais layouts, sendo eles: Layout Relativo, Layout Linear, FrameLayout e CoordinatorLayout e por fim, GridLayout.
+
+### Dia 8: 18 de agosto, 2018
+
+**Progresso do dia:** Continuando o estudo, entrando em um novo tópico, Componentes de Interface.
+
+**Aprendizados:** .  Hoje aprendi os primeiros componentes de interface, sendo eles TextInputLayout, CheckBox, e Radio Buttons. Não fiz nenhum projeto, apenas fiquei adicionando os elementos em uma activity para teste.
