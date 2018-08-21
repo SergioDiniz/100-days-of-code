@@ -14,7 +14,7 @@
 2. Se eu programar no trabalho, não irei considerar esse tempo como parte do desafio.
 3. Eu irei enviar meu código para o GitHub todo dia para que qualquer pessoa possa ver meu progresso.
 4. Eu irei atualizar o (Log)[log.md] com meu progresso diário e irei providenciar um link para que outros possam ver meu progresso.
-5. Eu irei trabalhar em projetos reais, com desafios verdadeiros. O tempo que usar vendo tutoriais, cursos online e outros recursos similares NÃO irão contar para o desafio. (Caso você esteja aprendendo a programar, leia [LEIA-ME](README.md))
+5. Eu irei trabalhar em pequenos em médios projetos, com rotinas de estudo, a fins de aprimorar meus conhecimentos e aprender novos conteúdos em cursos e livros.
 
 ## Ideias para fazer esse desafio ser mais eficiente
 
