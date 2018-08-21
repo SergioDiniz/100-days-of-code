@@ -57,3 +57,12 @@
 **Progresso do dia:** Continuando o estudo, entrando em um novo tópico, Componentes de Interface.
 
 **Aprendizados:** .  Hoje aprendi os primeiros componentes de interface, sendo eles TextInputLayout, CheckBox, e Radio Buttons. Não fiz nenhum projeto, apenas fiquei adicionando os elementos em uma activity para teste.
+
+### Dia 9: 19 de agosto, 2018
+
+**Progresso do dia:** Desenvolvimento de uma app que informa qual combustível vale a pena usar, ele recebe 2 valores, o valor do Álcool e da Gasolina e informa qual é o melhor para abastecer.
+
+**Aprendizados:** .  Hoje eu fiz o app relacionado ao conteúdo das aulas anteriores, onde coloquei em pratica a utilização do componente TextInputLayout, no estilo do material, para captura números double e fazer um calculo.
+
+**Link do trabalho:** [Álcool ou Gasolina](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_6_alcool_ou_gasolina)
+
