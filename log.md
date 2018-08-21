@@ -38,3 +38,11 @@
 
 **Link do trabalho:** [Notícia](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_4_noticia)
 
+### Dia 6: 16 de agosto, 2018
+
+**Progresso do dia:**  Desenvolvido interface de um app semelhando a um player de musica.
+
+**Aprendizados:**  O projeto de hoje foi para fixar ainda mais os conceitos e como utilizar o ConstraintLayout, utilizando vários buttons na tela e linha guias para alinhamento .
+
+**Link do trabalho:** [Player de Música](https://github.com/SergioDiniz/estudo_dev_android_27/tree/master/App_5_player_musica)
+
